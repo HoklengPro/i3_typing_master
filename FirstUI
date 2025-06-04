@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>i3 Typing Master</title>
+  <link rel="stylesheet" href="index.css" />
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f5f7fa;
+      color: #333;
+    }
+
+    header {
+      background: #0078d7;
+      color: white;
+      padding: 40px 20px;
+      text-align: center;
+    }
+
+    header h1 {
+      margin: 0 0 10px;
+      font-size: 36px;
+    }
+
+    header p {
+      margin: 0;
+      font-size: 18px;
+    }
+
+    nav {
+      display: flex;
+      justify-content: center;
+      background: #fff;
+      padding: 20px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    }
+
+    nav a {
+      margin: 0 15px;
+      text-decoration: none;
+      color: #0078d7;
+      font-weight: 600;
+      font-size: 16px;
+    }
+
+    nav a:hover {
+      text-decoration: underline;
+    }
+
+    main {
+      padding: 40px 20px;
+      text-align: center;
+    }
+
+    main h2 {
+      font-size: 28px;
+      margin-bottom: 16px;
+    }
+
+    main p {
+      font-size: 17px;
+      max-width: 700px;
+      margin: auto;
+    }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #eee;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Welcome to i3 Typing Master</h1>
+    <p>Improve your typing speed and accuracy with fun and interactive tests.</p>
+  </header>
+
+  <nav>
+    <a href="login.html">Login</a>
+    <a href="register.html">Register</a>
+    <a href="typing-test.html">Take Test</a>
+    <a href="result.html">Results</a>
+    <a href="about.html">About Us</a>
+  </nav>
+
+  <main>
+    <h2>Start your typing journey today</h2>
+    <p>
+      Join hundreds of learners and boost your typing skills with real-time feedback, performance tracking, and an intuitive user experience. Whether you're a student, a professional, or just curious—i3 Typing Master is made for you.
+    </p>
+  </main>
+
+  <footer>
+    &copy; 2025 i3 Typing Master — All rights reserved.
+  </footer>
+
+</body>
+</html>
